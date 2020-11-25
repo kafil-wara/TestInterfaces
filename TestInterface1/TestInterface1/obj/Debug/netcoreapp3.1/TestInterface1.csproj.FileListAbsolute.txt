@@ -1,0 +1,13 @@
+C:\Users\Kafil\source\repos\TestInterface1\TestInterface1\obj\Debug\netcoreapp3.1\TestInterface1.csprojAssemblyReference.cache
+C:\Users\Kafil\source\repos\TestInterface1\TestInterface1\obj\Debug\netcoreapp3.1\TestInterface1.AssemblyInfoInputs.cache
+C:\Users\Kafil\source\repos\TestInterface1\TestInterface1\obj\Debug\netcoreapp3.1\TestInterface1.AssemblyInfo.cs
+C:\Users\Kafil\source\repos\TestInterface1\TestInterface1\obj\Debug\netcoreapp3.1\TestInterface1.csproj.CoreCompileInputs.cache
+C:\Users\Kafil\source\repos\TestInterface1\TestInterface1\bin\Debug\netcoreapp3.1\TestInterface1.exe
+C:\Users\Kafil\source\repos\TestInterface1\TestInterface1\bin\Debug\netcoreapp3.1\TestInterface1.deps.json
+C:\Users\Kafil\source\repos\TestInterface1\TestInterface1\bin\Debug\netcoreapp3.1\TestInterface1.runtimeconfig.json
+C:\Users\Kafil\source\repos\TestInterface1\TestInterface1\bin\Debug\netcoreapp3.1\TestInterface1.runtimeconfig.dev.json
+C:\Users\Kafil\source\repos\TestInterface1\TestInterface1\bin\Debug\netcoreapp3.1\TestInterface1.dll
+C:\Users\Kafil\source\repos\TestInterface1\TestInterface1\bin\Debug\netcoreapp3.1\TestInterface1.pdb
+C:\Users\Kafil\source\repos\TestInterface1\TestInterface1\obj\Debug\netcoreapp3.1\TestInterface1.dll
+C:\Users\Kafil\source\repos\TestInterface1\TestInterface1\obj\Debug\netcoreapp3.1\TestInterface1.pdb
+C:\Users\Kafil\source\repos\TestInterface1\TestInterface1\obj\Debug\netcoreapp3.1\TestInterface1.genruntimeconfig.cache
